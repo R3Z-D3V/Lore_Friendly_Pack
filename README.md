@@ -45,7 +45,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Benefactor Krieger BPX-32B** | kriegerc | ![Picture](./Image/kriegerc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-krieger-bpx-32b-add-on-tuning-liveries-sounds) | ✔️ |
 | **Bordeaux Sancy B4** | sancyb4 | ![Picture](./Image/sancyb4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bordeaux-sancy-b4-add-on-tuning-liveries-sounds) | ✔️ |
 | **Bravado Buffalo Hellhound** | buffaloh | ![Picture](./Image/buffaloh.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-buffalo-hellhound-add-on-sounds) | ✔️ |
-| **Bravado Buffalo Hellhound** | buffaloh | ![Picture](./Image/14buffalost.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-buffalo-st-add-on-scratch-made-tuning-lods-liveries-sound-fivem) | ✔️ |
+| **Bravado Buffalo S/T** | buffaloh | ![Picture](./Image/14buffalost.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-buffalo-st-add-on-scratch-made-tuning-lods-liveries-sound-fivem) | ✔️ |
 | **Bravado Gresley Hellhound** | gresleyh | ![Picture](./Image/gresleyh.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-gresley-hellhound-add-on-sounds) | ✔️ |
 | **Bravado Verlierer GT** | verlierergt | ![Picture](./Image/verlierergt.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-verlierer-gt-add-on-liveries) | ✔️ |
 | **Bravado Vulture** | vulture | ![Picture](./Image/vulture.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds) | ✔️ |
