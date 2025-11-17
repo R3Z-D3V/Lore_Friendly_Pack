@@ -57,7 +57,6 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Invetero Coquette D10 Widebody** | coquette4c | ![Picture](./Image/coquette4c.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) | ✔️ |
 | **Karin 98S/1** | s98 | ![Picture](./Image/s98.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-98s-1-add-on-tuning-liveries-sounds) | ✔️ |
 | **Karin Ariant** | ariant | ![Picture](./Image/ariant.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-ariant-add-on-tuning-sounds-lods) | ✔️ |
-| **Karin Asterope RS** | asteropers | ![Picture](./Image/asteropers.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-asterope-rs-add-on-tuning-sounds-lods) | ✔️ |
 | **Karin Boor Widebody** | boorc | ![Picture](./Image/boorc.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-boor-widebody-add-on-tuning-sounds-lods) | ✔️ |
 | **Karin Drift Rebel** | rebeld | ![Picture](./Image/rebeld.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-drift-rebel-add-on-sounds-lods) | ✔️ |
 | **Karin Sigma-Three** | sigma3 | ![Picture](./Image/sigma3.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-sigma-three-add-on-tuning-sounds-lambofreak) | ✔️ |
