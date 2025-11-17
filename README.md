@@ -34,18 +34,11 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **6STR Annis ZR380 Custom** | zr3806str | ![Picture](./Image/zr3806str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-annis-zr380-custom-add-on-tuning) | ✔️ |
-| **6STR Benefactor Schwartzer 'Aggressor' Custom** | schwarzer2 | ![Picture](./Image/schwarzer2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-benefactor-schwartzer-aggressor-custom-add-on-tuning) | ✔️ |
-| **6STR Bravado Gauntlet Custom** | gauntlet6str | ![Picture](./Image/gauntlet6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-bravado-gauntlet-custom-add-on-tuning) | ✔️ |
-| **6STR Declasse Drift Yosemite** | yosemite6str | ![Picture](./Image/yosemite6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-declasse-drift-yosemite-add-on-tuning) | ✔️ |
-| **6STR Imponte Ruiner 450 Custom** | ruiner6str | ![Picture](./Image/ruiner6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-imponte-ruiner-450-custom-add-on-tuning) | ✔️ |
-| **6STR Pegassi Tempesta Custom** | tempesta2 | ![Picture](./Image/tempesta2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-pegassi-tempesta-custom-tuners-outlaws-add-on-tuneable) | ✔️ |
-| **6STR Ubermacht Sentinel Classic Custom** | sentinel6str2 | ![Picture](./Image/sentinel6str2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-ubermacht-sentinel-classic-custom-add-on-tuning) | ✔️ |
-| **6STR Vapid Drift Ellie Custom** | ellie6str | ![Picture](./Image/ellie6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-vapid-drift-ellie-custom-add-on-tuning) | ✔️ |
 | **Annis Elegy RH4** | elegyrh4 | ![Picture](./Image/elegyrh4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis Elegy RH6** | elegyrh6 | ![Picture](./Image/elegyrh6.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis Elegy RH8-X** | elegyx | ![Picture](./Image/elegyx.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh8-x-add-on-sounds) | ✔️ |
 | **Annis ZR-250 "Savestra"** | zr250 | ![Picture](./Image/zr250.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-250-savestra-add-on-tuning-liveries-sounds) | ✔️ |
+| **Annis ZR-150** | zr150 | ![Picture](./Image/zr150.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-150-add-on-tuning) | ✔️ |
 | **Annis ZR390** | zr390 | ![Picture](./Image/zr390.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr390) | ✔️ |
 | **Benefactor Dubsta 4x4** | dubsta4x4 | ![Picture](./Image/dubsta4x4.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4) | ✔️ |
 | **Benefactor Krieger BPX-32B** | kriegerc | ![Picture](./Image/kriegerc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/benefactor-krieger-bpx-32b-add-on-tuning-liveries-sounds) | ✔️ |
@@ -90,7 +83,6 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Progen T20 GTR** | t20gtr | ![Picture](./Image/t20gtr.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/progen-t20-gtr-add-on) | ✔️ |
 | **Shitzu Castella** | castella | ![Picture](./Image/castella.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
 | **Shitzu Castella** | castellajp | ![Picture](./Image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
-| **Truffade Adder Sport** | adders | ![Picture](./Image/adders.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
 | **Ubermacht Sentinel SG4 ** | sentinelmk4 | ![Picture](./Image/sentinelmk4.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
 | **Ubermacht Sentinel SG4 GTR** | sentinelmk4gtr | ![Picture](./Image/sentinelmk4gtr.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
 | **Ubermacht Sentinel SG4 Drift Missile** | sentineldm | ![Picture](./Image/sentineldm.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-sg4-drift-missile-add-on-sounds) | ✔️ |
@@ -100,9 +92,8 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Vapid Sabot** | sabot | ![Picture](./Image/sabot.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-sabot-add-on-liveries-sound) | ✔️ |
 | **Vulcar Hachura R** | hachura | ![Picture](./Image/hachura.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-r-add-on-tuning-liveries-sounds) | ✔️ |
 | **Vulcar Hachura R Custom** | hachurac | ![Picture](./Image/hachurac.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-custom-add-on-tuning) | ✔️ |
-| **Vulcar Ingot R255** | r255 | ![Picture](./Image/r255.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-ingot-r255-add-on-liveries) | ✔️ |
 | **Vulcar Zodiac** | zodiac | ![Picture](./Image/zodiac.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
 | **Vulcar Zodiac** | zodiacc | ![Picture](./Image/zodiacc.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
 | **Vulcar Zodiac** | zodiacr | ![Picture](./Image/zodiacr.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
-| **Zircoflow Stratum** | stratumc | ![Picture](./Image/stratumc.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/zircoflow-stratum) | ✔️ |
+
 
