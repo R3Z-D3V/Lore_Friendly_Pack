@@ -88,7 +88,6 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Ubermacht Sentinel SG4 GTR** | sentinelmk4gtr | ![Picture](./Image/sentinelmk4gtr.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
 | **Ubermacht Sentinel SG4 Drift Missile** | sentineldm | ![Picture](./Image/sentineldm.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-sg4-drift-missile-add-on-sounds) | ✔️ |
 | **Ubermacht Vorstand** | vorstand | ![Picture](./Image/vorstand.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-vorstand-add-on-tuning-sounds) | ✔️ |
-| **Vapid Contender Custom** | contenderc | ![Picture](./Image/contenderc.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-contender-custom-add-on) | ✔️ |
 | **Vapid Dominator GT Coupe** | domgtcoupe | ![Picture](./Image/domgtcoupe.webp) | Dayashii | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-dominator-gt-coupe-add-on-tuning) | ✔️ |
 | **Vapid Sabot** | sabot | ![Picture](./Image/sabot.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-sabot-add-on-liveries-sound) | ✔️ |
 | **Vulcar Hachura R** | hachura | ![Picture](./Image/hachura.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-hachura-r-add-on-tuning-liveries-sounds) | ✔️ |
