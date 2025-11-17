@@ -36,6 +36,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Annis Elegy RH4** | elegyrh4 | ![Picture](./Image/elegyrh4.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh4-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis Elegy RH6** | elegyrh6 | ![Picture](./Image/elegyrh6.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds) | ✔️ |
+| **Annis Elegy RH7** | elegyrh7 | ![Picture](./Image/elegyrh7.webp) | Boywond | [5MODS Link]([https://www.gta5-mods.com/vehicles/annis-elegy-rh6-add-on-tuning-liveries-sounds](https://www.gta5-mods.com/vehicles/annis-elegy-rh-7-addon-tuning-liveries-sounds-rhd-deadman23-jerkov-tgi_j-and-the-vanillaworks-community)) | ✔️ |
 | **Annis Elegy RH8-X** | elegyx | ![Picture](./Image/elegyx.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-elegy-rh8-x-add-on-sounds) | ✔️ |
 | **Annis ZR-250 "Savestra"** | zr250 | ![Picture](./Image/zr250.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-250-savestra-add-on-tuning-liveries-sounds) | ✔️ |
 | **Annis ZR-150** | zr150 | ![Picture](./Image/zr150.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/annis-zr-150-add-on-tuning) | ✔️ |
