@@ -2,17 +2,15 @@
 
 ==========================
 
-_Tested upon [Build ID 3258](https://zap-hosting.com/guides/docs/fivem-gamebuild/)_
-
 If some Vehicles don't load, it is possible it is due to your Game Build, if so add the following or change the following via the server.cfg
 
 Previous
 ```
-sv_enforceGameBuild 3095 #mp2023_02 - The Chop Shop
+sv_enforceGameBuild 3407
 ```
 Updated
 ```
-sv_enforceGameBuild 3258 #mp2024_01 - Bottom Dollar Bounties
+sv_enforceGameBuild 3570
 ```
 
 A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.com/). This pack features a mixture of add-on/replace aswell as tuning cars. Some also feature custom sounds, Custom sounds built into the FxManifest.
@@ -40,7 +38,6 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **6STR Benefactor Schwartzer 'Aggressor' Custom** | schwarzer2 | ![Picture](./Image/schwarzer2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-benefactor-schwartzer-aggressor-custom-add-on-tuning) | ✔️ |
 | **6STR Bravado Gauntlet Custom** | gauntlet6str | ![Picture](./Image/gauntlet6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-bravado-gauntlet-custom-add-on-tuning) | ✔️ |
 | **6STR Declasse Drift Yosemite** | yosemite6str | ![Picture](./Image/yosemite6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-declasse-drift-yosemite-add-on-tuning) | ✔️ |
-| **6STR Karin Futo GT Hatch Custom** | futo2 | ![Picture](./Image/futo2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-karin-futo-gt-hatch-custom-tuners-and-outlaws-add-on-tuneable) | ✔️ |
 | **6STR Imponte Ruiner 450 Custom** | ruiner6str | ![Picture](./Image/ruiner6str.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-imponte-ruiner-450-custom-add-on-tuning) | ✔️ |
 | **6STR Pegassi Tempesta Custom** | tempesta2 | ![Picture](./Image/tempesta2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-pegassi-tempesta-custom-tuners-outlaws-add-on-tuneable) | ✔️ |
 | **6STR Ubermacht Sentinel Classic Custom** | sentinel6str2 | ![Picture](./Image/sentinel6str2.webp) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/vehicles/6str-ubermacht-sentinel-classic-custom-add-on-tuning) | ✔️ |
@@ -71,7 +68,7 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Karin Drift Rebel** | rebeld | ![Picture](./Image/rebeld.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-drift-rebel-add-on-sounds-lods) | ✔️ |
 | **Karin Sigma-Three** | sigma3 | ![Picture](./Image/sigma3.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-sigma-three-add-on-tuning-sounds-lambofreak) | ✔️ |
 | **Karin Sultan Classic Custom** | sultan2c | ![Picture](./Image/sultan2c.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/karin-sultan-classic-custom-add-on-sounds) | ✔️ |
-| **Karin Sultan RS V8 TwinTurbo** | sultanrsv8 | ![Picture](./Image/sultanrsv8.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/sultan-rs-v8-twinturbo-add-on) | ✔️ |
+| **Karin Sultan RSV8TT MK1** | sultanrsv8 | ![Picture](./Image/sultanrsv8.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/sultan-rs-v8-twinturbo-add-on) | ✔️ |
 | **Karin Sultan RSV8 MK2** | sultanrsv82 | ![Picture](./Image/sultanrsv82.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/sultan-rsv8-mk2-add-on-tuning-sound-livery-template) | ✔️ |
 | **Maibatsu Sunrise R** | sunrise1 | ![Picture](./Image/sunrise1.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) | ✔️ |
 | **Obey 9R** | niner | ![Picture](./Image/niner.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/obey-9r-add-on) | ✔️ |
@@ -94,8 +91,8 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Shitzu Castella** | castella | ![Picture](./Image/castella.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
 | **Shitzu Castella** | castellajp | ![Picture](./Image/castellajp.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/shitzu-castella-add-on-liveries-sounds) | ✔️ |
 | **Truffade Adder Sport** | adders | ![Picture](./Image/adders.webp) | Murciélago | [5MODS Link](https://www.gta5-mods.com/vehicles/truffade-adder-sport-add-on) | ✔️ |
-| **Ubermacht Sentinel Mk.4 GTR** | sentinelmk4 | ![Picture](./Image/sentinelmk4.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
-| **Ubermacht Sentinel Mk.4 GTR** | sentinelmk4gtr | ![Picture](./Image/sentinelmk4gtr.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
+| **Ubermacht Sentinel SG4 ** | sentinelmk4 | ![Picture](./Image/sentinelmk4.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
+| **Ubermacht Sentinel SG4 GTR** | sentinelmk4gtr | ![Picture](./Image/sentinelmk4gtr.webp) | IGnoTon | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-mk-4-gtr-lore-friendly-add-on) | ✔️ |
 | **Ubermacht Sentinel SG4 Drift Missile** | sentineldm | ![Picture](./Image/sentineldm.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-sg4-drift-missile-add-on-sounds) | ✔️ |
 | **Ubermacht Vorstand** | vorstand | ![Picture](./Image/vorstand.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/ubermacht-vorstand-add-on-tuning-sounds) | ✔️ |
 | **Vapid Contender Custom** | contenderc | ![Picture](./Image/contenderc.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/vapid-contender-custom-add-on) | ✔️ |
@@ -109,16 +106,3 @@ A collection of **Lore-Friendly** vehicles from [GTA5-Mods](https://gta5-mods.co
 | **Vulcar Zodiac** | zodiacr | ![Picture](./Image/zodiacr.webp) | Boywond | [5MODS Link](https://www.gta5-mods.com/vehicles/vulcar-zodiac-pack-add-on-tuning-liveries-sounds) | ✔️ |
 | **Zircoflow Stratum** | stratumc | ![Picture](./Image/stratumc.webp) | LamboFreak | [5MODS Link](https://www.gta5-mods.com/vehicles/zircoflow-stratum) | ✔️ |
 
-
-
-
-
-# Lore Friendly Rim Pack
-| Rim Set | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| **Lore Friendly + Neon Wheels Pack** | ![Picture](./Image/LoreFriendlyNeonWheelsPack.webp) | microoowave | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-neon-wheel-pack-sp-fivem-add-on) | ✔️ |
-| **Lore Friendly Bikes Wheels Pack** | ![Picture](./Image/LoreFriendlyBikesWheelsPack.webp) | Ydrop | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-bikes-wheels-addon) | ✔️ |
-| **Lore Friendly Muscle Wheels Pack** | ![Picture](./Image/LoreFriendlyMuscleWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-muscle-wheels-pack-roosterthegamer) | ✔️ |
-| **Lore Friendly Sports Wheels Pack** | ![Picture](./Image/LoreFriendlySportsWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-sports-wheels-pack-lfswp-add-on-lods) | ✔️ |
-| **Lore Friendly Tuner Wheels Pack** | ![Picture](./Image/LoreFriendlyTunerWheelsPack.webp) | RooST4R | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-tuner-wheels-pack) | ✔️ |
-| **Lore Friendly Wheels Pack** | ![Picture](./Image/LoreFriendlyWheelsPack.webp) | MGgames100 | [5MODS Link](https://www.gta5-mods.com/vehicles/lore-friendly-wheels-wheel-pack-over-150-wheels-add-on) | ✔️ |
